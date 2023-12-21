@@ -1,4 +1,4 @@
-# GithubActions: How to deployt a .NET 8 Web API
+![image](https://github.com/luiscoco/GithubActions_Deploy_dotNET8_WebAPI/assets/32194879/d79e54e0-89b6-4c7b-9527-8981899be153)# GithubActions: How to deployt a .NET 8 Web API
 
 ## 1. Creating the Service Principal and Obtaining Azure Credentials
 
@@ -72,3 +72,10 @@ jobs:
         --os-type Windows \
         --runtime "dotnet:8"
 ```
+
+## 4. 
+
+![image](https://github.com/luiscoco/GithubActions_Deploy_dotNET8_WebAPI/assets/32194879/4b9396f3-d2fb-4f60-96aa-89ce1c9687fd)
+
+![image](https://github.com/luiscoco/GithubActions_Deploy_dotNET8_WebAPI/assets/32194879/f7ceca0a-bb02-4d89-8e60-88a92c64ce0b)
+
