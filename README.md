@@ -1,5 +1,7 @@
 # GithubActions: How to deploy .NET 8 Web API in Azure Web App
 
+In this example we show you how to continously deploy in Azure Web App a .NET 8 Web API
+
 ## 1. Creating the Service Principal and Obtaining Azure Credentials
 
 Run this command for getting the Azure Credentials:
