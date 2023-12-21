@@ -1,5 +1,7 @@
 # GithubActions: How to deployt a .NET 8 Web API
 
+See this github repo for more information: https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET
+
 To set up a GitHub Actions workflow for continuously deploying your Web API to Azure using the provided command, you need to create a .yml file in your GitHub repository under the .github/workflows directory. 
 
 The file, often named main.yml or something similar, defines the workflow. Below is an example of how your main.yml file could look. 
