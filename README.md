@@ -13,7 +13,7 @@ az ad sp create-for-rbac --name "myserviceprincipalluis" ^
 
 ## 2. We create the Github repository secret for storing the AZURE_CREDENTIALS
 
-We create a new Secret for storing the AZURE_CREDENTIALS:
+We create a new Secret for storing the **AZURE_CREDENTIALS**:
 
 ```
 {
